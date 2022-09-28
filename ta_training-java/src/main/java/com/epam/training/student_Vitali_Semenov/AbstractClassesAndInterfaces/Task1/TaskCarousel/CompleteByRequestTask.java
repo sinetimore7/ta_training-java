@@ -12,9 +12,7 @@ public class CompleteByRequestTask implements Task{
 
     @Override
     public boolean isFinished() {
-        if (statusOfTask){
-            return false;
-        } else return true;
+        return !statusOfTask;
     }
 
     public void complete() {

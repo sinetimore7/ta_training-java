@@ -7,9 +7,7 @@ abstract class Figure {
     public final static double DELTA = 0.0001;
 
     public boolean isEqual(double a, double b){
-        if (Math.abs(a - b) < DELTA){
-            return true;
-        } else return false;
+        return Math.abs(a - b) < DELTA;
     }
     public double length(Point a, Point b) {
         return  sqrt(pow((b.getX() - a.getX()), 2) + pow((b.getY() - a.getY()), 2));

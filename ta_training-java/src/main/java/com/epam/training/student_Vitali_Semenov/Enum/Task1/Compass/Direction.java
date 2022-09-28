@@ -11,7 +11,7 @@ public enum Direction {
     public int getDegrees(){
         return  degrees;
     }
-    static int getNormalDegress(int degrees){
+    static int getNormalDegres(int degrees){
         while (degrees >= 360){
             degrees -= 360;
         }
@@ -25,7 +25,7 @@ public enum Direction {
     }
 
     public static Direction ofDegrees(int degrees) {
-        degrees = getNormalDegress(degrees);
+        degrees = getNormalDegres(degrees);
 
         for (Direction di: Direction.values()){
             if (degrees == di.getDegrees() ){
@@ -36,7 +36,7 @@ public enum Direction {
     }
 
     public static Direction closestToDegrees(int degrees) {
-        degrees = getNormalDegress(degrees);
+        degrees = getNormalDegres(degrees);
         for (Direction di: Direction.values()){
             if (degrees >= di.getDegrees() - 22 && degrees <= di.getDegrees() + 22) return di;
         }

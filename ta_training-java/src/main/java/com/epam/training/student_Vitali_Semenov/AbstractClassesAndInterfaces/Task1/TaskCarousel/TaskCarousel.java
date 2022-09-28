@@ -6,13 +6,13 @@ import java.util.List;
 public class TaskCarousel {
     List<Task> list = new ArrayList<>();
     int positionOfTask = 0;
-    int capasity;
+    int capacity;
     public TaskCarousel(int capacity) {
-        this.capasity = capacity;
+        this.capacity = capacity;
     }
 
     public boolean addTask(Task task) {
-        if (task.isFinished() || list.size() == capasity){
+        if (task.isFinished() || list.size() == capacity){
             return false;
         } else {
             list.add(task);
@@ -36,9 +36,7 @@ public class TaskCarousel {
     }
 
     public boolean isFull() {
-        if (list.size() == capasity){
-            return true;
-        } else return false;
+        return list.size() == capacity;
     }
 
     public boolean isEmpty() {
