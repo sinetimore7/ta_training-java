@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Test/12.max/pom.xml" />
+        <option value="$PROJECT_DIR$/Test/6.snail/pom.xml" />
+        <option value="$PROJECT_DIR$/Test/9.average/pom.xml" />
+        <option value="$PROJECT_DIR$/Test/7.go-dutch/pom.xml" />
+        <option value="$PROJECT_DIR$/Test/8.max-in-seq/pom.xml" />
+        <option value="$PROJECT_DIR$/Test/10.pizza-split/pom.xml" />
+        <option value="$PROJECT_DIR$/Test/1.Meet AutoCode/pom.xml" />
+        <option value="$PROJECT_DIR$/Test/4.meet-an-agent/pom.xml" />
+        <option value="$PROJECT_DIR$/Test/2.meet a stranger/pom.xml" />
+        <option value="$PROJECT_DIR$/Test/5.hello-strangers/pom.xml" />
+        <option value="$PROJECT_DIR$/Test/3.Electronic Watch/pom.xml" />
+        <option value="$PROJECT_DIR$/Test/11.quadratic-equation/pom.xml" />
+        <option value="$PROJECT_DIR$/ta_training-java/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test/1.Meet AutoCode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test/10.pizza-split" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test/11.quadratic-equation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test/12.max" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test/2.meet a stranger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test/3.Electronic Watch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test/4.meet-an-agent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test/5.hello-strangers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test/6.snail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test/7.go-dutch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test/8.max-in-seq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Test/9.average" vcs="Git" />
+  </component>
+</project>

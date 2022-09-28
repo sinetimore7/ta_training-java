@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="snail" />
+        <module name="average" />
+        <module name="max" />
+        <module name="meet-strangers" />
+        <module name="ta_training-java" />
+        <module name="go-dutch" />
+        <module name="quadratic-equation" />
+        <module name="meet-a-stranger" />
+        <module name="meet-an-agent" />
+        <module name="meet-autocode" />
+        <module name="electronic-watch" />
+        <module name="max-in-seq-skeleton" />
+        <module name="pizza-split" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="average" target="11" />
+      <module name="electronic-watch" target="11" />
+      <module name="go-dutch" target="11" />
+      <module name="max" target="11" />
+      <module name="max-in-seq-skeleton" target="11" />
+      <module name="meet-a-stranger" target="11" />
+      <module name="meet-an-agent" target="11" />
+      <module name="meet-autocode" target="11" />
+      <module name="meet-strangers" target="11" />
+      <module name="pizza-split" target="11" />
+      <module name="quadratic-equation" target="11" />
+      <module name="snail" target="11" />
+      <module name="ta_training-java" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
