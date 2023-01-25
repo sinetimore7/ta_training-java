@@ -26,10 +26,10 @@ public class WebDriverCloudGoogleTest {
                 .pressLinkToTheSearchTerm();
         driver.switchTo().window(driver.getWindowHandle());
         googlePage.enterNumberOfInstance1("4");
-//                .pressSelectorSeries()
-//                .pressSeriesN1()
-//                .pressSelectorMachineType()
-//                .pressMachineTypeN1_St8_8_30Gb();
+                .pressSelectorSeries()
+                .pressSeriesN1()
+                .pressSelectorMachineType()
+                .pressMachineTypeN1_St8_8_30Gb();
     }
 
     @Test
